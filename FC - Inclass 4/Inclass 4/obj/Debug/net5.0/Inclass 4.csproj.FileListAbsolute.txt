@@ -1,0 +1,16 @@
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 4\Inclass 4\bin\Debug\net5.0\Inclass 4.exe
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 4\Inclass 4\bin\Debug\net5.0\Inclass 4.deps.json
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 4\Inclass 4\bin\Debug\net5.0\Inclass 4.runtimeconfig.json
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 4\Inclass 4\bin\Debug\net5.0\Inclass 4.runtimeconfig.dev.json
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 4\Inclass 4\bin\Debug\net5.0\Inclass 4.dll
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 4\Inclass 4\bin\Debug\net5.0\ref\Inclass 4.dll
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 4\Inclass 4\bin\Debug\net5.0\Inclass 4.pdb
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 4\Inclass 4\obj\Debug\net5.0\Inclass 4.csproj.AssemblyReference.cache
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 4\Inclass 4\obj\Debug\net5.0\Inclass 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 4\Inclass 4\obj\Debug\net5.0\Inclass 4.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 4\Inclass 4\obj\Debug\net5.0\Inclass 4.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 4\Inclass 4\obj\Debug\net5.0\Inclass 4.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 4\Inclass 4\obj\Debug\net5.0\Inclass 4.dll
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 4\Inclass 4\obj\Debug\net5.0\ref\Inclass 4.dll
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 4\Inclass 4\obj\Debug\net5.0\Inclass 4.pdb
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 4\Inclass 4\obj\Debug\net5.0\Inclass 4.genruntimeconfig.cache
