@@ -1,0 +1,16 @@
+C:\Users\priya\OneDrive\Desktop\Priyansh\Sem 1\Programming Concepts\FC - Assignment 3\PCWMAssign3Task23\bin\Debug\net5.0\PCWMAssign3Task23.exe
+C:\Users\priya\OneDrive\Desktop\Priyansh\Sem 1\Programming Concepts\FC - Assignment 3\PCWMAssign3Task23\bin\Debug\net5.0\PCWMAssign3Task23.deps.json
+C:\Users\priya\OneDrive\Desktop\Priyansh\Sem 1\Programming Concepts\FC - Assignment 3\PCWMAssign3Task23\bin\Debug\net5.0\PCWMAssign3Task23.runtimeconfig.json
+C:\Users\priya\OneDrive\Desktop\Priyansh\Sem 1\Programming Concepts\FC - Assignment 3\PCWMAssign3Task23\bin\Debug\net5.0\PCWMAssign3Task23.runtimeconfig.dev.json
+C:\Users\priya\OneDrive\Desktop\Priyansh\Sem 1\Programming Concepts\FC - Assignment 3\PCWMAssign3Task23\bin\Debug\net5.0\PCWMAssign3Task23.dll
+C:\Users\priya\OneDrive\Desktop\Priyansh\Sem 1\Programming Concepts\FC - Assignment 3\PCWMAssign3Task23\bin\Debug\net5.0\ref\PCWMAssign3Task23.dll
+C:\Users\priya\OneDrive\Desktop\Priyansh\Sem 1\Programming Concepts\FC - Assignment 3\PCWMAssign3Task23\bin\Debug\net5.0\PCWMAssign3Task23.pdb
+C:\Users\priya\OneDrive\Desktop\Priyansh\Sem 1\Programming Concepts\FC - Assignment 3\PCWMAssign3Task23\obj\Debug\net5.0\PCWMAssign3Task23.csproj.AssemblyReference.cache
+C:\Users\priya\OneDrive\Desktop\Priyansh\Sem 1\Programming Concepts\FC - Assignment 3\PCWMAssign3Task23\obj\Debug\net5.0\PCWMAssign3Task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Desktop\Priyansh\Sem 1\Programming Concepts\FC - Assignment 3\PCWMAssign3Task23\obj\Debug\net5.0\PCWMAssign3Task23.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Desktop\Priyansh\Sem 1\Programming Concepts\FC - Assignment 3\PCWMAssign3Task23\obj\Debug\net5.0\PCWMAssign3Task23.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Desktop\Priyansh\Sem 1\Programming Concepts\FC - Assignment 3\PCWMAssign3Task23\obj\Debug\net5.0\PCWMAssign3Task23.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Desktop\Priyansh\Sem 1\Programming Concepts\FC - Assignment 3\PCWMAssign3Task23\obj\Debug\net5.0\PCWMAssign3Task23.dll
+C:\Users\priya\OneDrive\Desktop\Priyansh\Sem 1\Programming Concepts\FC - Assignment 3\PCWMAssign3Task23\obj\Debug\net5.0\ref\PCWMAssign3Task23.dll
+C:\Users\priya\OneDrive\Desktop\Priyansh\Sem 1\Programming Concepts\FC - Assignment 3\PCWMAssign3Task23\obj\Debug\net5.0\PCWMAssign3Task23.pdb
+C:\Users\priya\OneDrive\Desktop\Priyansh\Sem 1\Programming Concepts\FC - Assignment 3\PCWMAssign3Task23\obj\Debug\net5.0\PCWMAssign3Task23.genruntimeconfig.cache
