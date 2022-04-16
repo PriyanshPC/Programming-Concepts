@@ -1,0 +1,16 @@
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 5\Inclass 5\obj\Debug\net5.0\Inclass 5.csproj.AssemblyReference.cache
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 5\Inclass 5\obj\Debug\net5.0\Inclass 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 5\Inclass 5\obj\Debug\net5.0\Inclass 5.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 5\Inclass 5\obj\Debug\net5.0\Inclass 5.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 5\Inclass 5\obj\Debug\net5.0\Inclass 5.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 5\Inclass 5\bin\Debug\net5.0\Inclass 5.exe
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 5\Inclass 5\bin\Debug\net5.0\Inclass 5.deps.json
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 5\Inclass 5\bin\Debug\net5.0\Inclass 5.runtimeconfig.json
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 5\Inclass 5\bin\Debug\net5.0\Inclass 5.runtimeconfig.dev.json
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 5\Inclass 5\bin\Debug\net5.0\Inclass 5.dll
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 5\Inclass 5\bin\Debug\net5.0\ref\Inclass 5.dll
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 5\Inclass 5\bin\Debug\net5.0\Inclass 5.pdb
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 5\Inclass 5\obj\Debug\net5.0\Inclass 5.dll
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 5\Inclass 5\obj\Debug\net5.0\ref\Inclass 5.dll
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 5\Inclass 5\obj\Debug\net5.0\Inclass 5.pdb
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Inclass 5\Inclass 5\obj\Debug\net5.0\Inclass 5.genruntimeconfig.cache
