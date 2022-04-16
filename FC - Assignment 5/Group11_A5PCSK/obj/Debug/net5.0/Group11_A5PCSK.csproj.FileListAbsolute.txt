@@ -1,0 +1,16 @@
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Assignment 5\Group11_A5PCSK\bin\Debug\net5.0\Group11_A5PCSK.exe
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Assignment 5\Group11_A5PCSK\bin\Debug\net5.0\Group11_A5PCSK.deps.json
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Assignment 5\Group11_A5PCSK\bin\Debug\net5.0\Group11_A5PCSK.runtimeconfig.json
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Assignment 5\Group11_A5PCSK\bin\Debug\net5.0\Group11_A5PCSK.runtimeconfig.dev.json
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Assignment 5\Group11_A5PCSK\bin\Debug\net5.0\Group11_A5PCSK.dll
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Assignment 5\Group11_A5PCSK\bin\Debug\net5.0\ref\Group11_A5PCSK.dll
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Assignment 5\Group11_A5PCSK\bin\Debug\net5.0\Group11_A5PCSK.pdb
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Assignment 5\Group11_A5PCSK\obj\Debug\net5.0\Group11_A5PCSK.csproj.AssemblyReference.cache
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Assignment 5\Group11_A5PCSK\obj\Debug\net5.0\Group11_A5PCSK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Assignment 5\Group11_A5PCSK\obj\Debug\net5.0\Group11_A5PCSK.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Assignment 5\Group11_A5PCSK\obj\Debug\net5.0\Group11_A5PCSK.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Assignment 5\Group11_A5PCSK\obj\Debug\net5.0\Group11_A5PCSK.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Assignment 5\Group11_A5PCSK\obj\Debug\net5.0\Group11_A5PCSK.dll
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Assignment 5\Group11_A5PCSK\obj\Debug\net5.0\ref\Group11_A5PCSK.dll
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Assignment 5\Group11_A5PCSK\obj\Debug\net5.0\Group11_A5PCSK.pdb
+C:\Users\priya\OneDrive\Desktop\Priyansh\Programming Concepts\FC - Assignment 5\Group11_A5PCSK\obj\Debug\net5.0\Group11_A5PCSK.genruntimeconfig.cache
